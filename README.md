@@ -1,3 +1,4 @@
+
 # Portfolio skeleton
 
 A minimal, editorial-style personal portfolio built with Next.js (App Router).
@@ -37,3 +38,6 @@ lib/
 - One accent color (`--accent`, a deep pine green) used sparingly — org names in the timeline, hover states. Everything else is ink, graphite, and paper.
 - The only non-interactive motion is a single staggered fade-up on the hero at load. Everything else (project image scale, underline links) only animates in response to a hover.
 - Project cards alternate media/text sides down the page instead of sitting in a uniform grid, so the project list reads like an editorial spread rather than a card grid.
+=======
+# portfolio
+
